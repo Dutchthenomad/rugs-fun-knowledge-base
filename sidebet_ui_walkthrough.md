@@ -1,7 +1,7 @@
 # Side Bet UI Walkthrough - Visual Guide
 
 ## Overview
-This walkthrough demonstrates a complete game cycle showing side bet mechanics in action. The screenshots focus on the side bet interface elements and show real gameplay from presale through rug event.
+This walkthrough demonstrates a complete game cycle showing side bet mechanics in action. The screenshots focus on the side bet interface elements and show real gameplay from presale through rug event[...]
 
 **Game Summary:**
 - **Total Side Bets Placed:** 2
@@ -13,7 +13,7 @@ This walkthrough demonstrates a complete game cycle showing side bet mechanics i
 
 ## Screenshot 1: Initial Interface Setup
 
-![Initial side bet interface](./images/sidebet-initial-interface.png)
+![Initial side bet interface](images/sidebet-initial-interface.png.png)
 
 **Interface Elements:**
 - **Position Size Toggle:** Shows 0.002 SOL selected
@@ -27,7 +27,8 @@ This walkthrough demonstrates a complete game cycle showing side bet mechanics i
 
 ## Screenshot 2: Presale Side Bet Placement
 
-![Presale side bet active](./images/sidebet-presale-active.png) ![Countdown timer](./images/sidebet-countdown.png)
+![Presale side bet active](images/sidebet-presale-active.png.png)  
+![Countdown timer](images/sidebet-countdown.png.png)
 
 **Game State:**
 - **Phase:** Presale (4.70 seconds remaining)
@@ -41,7 +42,7 @@ This walkthrough demonstrates a complete game cycle showing side bet mechanics i
 
 ## Screenshot 3: First Side Bet Loss
 
-![First side bet lost](./images/sidebet-first-loss.png)
+![First side bet lost](images/sidebet-first-loss.png.png)
 
 **Game State:**
 - **Current Tick:** ~50+ (game still active)
@@ -55,7 +56,7 @@ This walkthrough demonstrates a complete game cycle showing side bet mechanics i
 
 ## Screenshot 4: Second Side Bet Placement
 
-![Second side bet placed](./images/sidebet-second-win.png)
+![Second side bet placed](images/second-sidebet.png)
 
 **Game State:**
 - **Current Tick:** ~50
@@ -70,7 +71,7 @@ This walkthrough demonstrates a complete game cycle showing side bet mechanics i
 
 ## Screenshot 5: Winning Side Bet Resolution
 
-![Side bet win at tick 82](./images/sidebet-second-win.png)
+![Side bet win at tick 82](images/sidebet-second-win.png.png)
 
 **Final Results:**
 - **Rug Tick:** 82 (within second side bet window of 50-89)
