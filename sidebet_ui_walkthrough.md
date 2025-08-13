@@ -56,7 +56,7 @@ This walkthrough demonstrates a complete game cycle showing side bet mechanics i
 
 ## Screenshot 4: Second Side Bet Placement
 
-![Second side bet placed](images/sidebet-second-win.png.png)
+![Second side bet placed](images/second-sidebet.png)
 
 **Game State:**
 - **Current Tick:** ~50
